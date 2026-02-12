@@ -1,6 +1,14 @@
 TrueERP – Integrated Enterprise Resource Planning System
-Done by: Shatakshi Sah (Intern at Tron Soft Tech Company)
+
+
+Done by: Shatakshi Sah 
+(Intern at Tron Soft Tech Company)
+
+
 Under the Guidance of: Mr. Rohit Khatal
+
+
+
 🚀 Overview
 
 TrueERP is an integrated Enterprise Resource Planning (ERP) system designed to unify key business functions such as finance, inventory, HR, sales, CRM, procurement, and production into a single centralized platform. This project focuses on studying and implementing TrueERP to replace manual and disconnected processes.
